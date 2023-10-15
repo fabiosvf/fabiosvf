@@ -18,8 +18,8 @@ E um pouco sobre mim ...
 
 <div>
   <a href="https://github.com/fabiosvf">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiosvf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosvf&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosvf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosvf&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula" />
   </a>
 </div>
 
