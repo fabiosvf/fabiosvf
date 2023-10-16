@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: |
+          outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
